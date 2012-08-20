@@ -46,9 +46,9 @@ http://s3.amazonaws.com/KA-youtube-converted/FXgV9ySNusc.mp4/FXgV9ySNusc.mp4
 http://s3.amazonaws.com/KA-youtube-converted/8Wxw9bpKEGQ.mp4/8Wxw9bpKEGQ.mp4
 http://s3.amazonaws.com/KA-youtube-converted/4u8_AMacu-Y.mp4/4u8_AMacu-Y.mp4
 http://s3.amazonaws.com/KA-youtube-converted/pLCmwHsDYqo.mp4/pLCmwHsDYqo.mp4
-
-
-
+https://www.youtube.com/watch?v=1byR9UEQJN0&feature=youtube_gdata_player
+https://www.youtube.com/watch?v=3Ee_huKclEQ&feature=youtube_gdata_player
+https://www.youtube.com/watch?v=-nlMXVrgtjw&feature=youtube_gdata_player
 http://s3.amazonaws.com/KA-youtube-converted/Z3db5itCIiQ.mp4/Z3db5itCIiQ.mp4
 http://s3.amazonaws.com/KA-youtube-converted/hypi8QPsFEk.mp4/hypi8QPsFEk.mp4
 http://s3.amazonaws.com/KA-youtube-converted/WB7gPfsv6rQ.mp4/WB7gPfsv6rQ.mp4
