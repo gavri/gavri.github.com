@@ -1,0 +1,286 @@
+#EXTINF:, Introduction to matrices || What a matrix is.  How to add and subtract them.
+http://s3.amazonaws.com/KA-youtube-converted/xyAuNHPsq-g.mp4/xyAuNHPsq-g.mp4
+#EXTINF:, Matrix multiplication (part 1) || Multiplying two 2x2 matrices.
+http://s3.amazonaws.com/KA-youtube-converted/aKhhYguY0DQ.mp4/aKhhYguY0DQ.mp4
+#EXTINF:, Matrix multiplication (part 2) || More on multiplying matrices.
+http://s3.amazonaws.com/KA-youtube-converted/OAh573i_qn8.mp4/OAh573i_qn8.mp4
+#EXTINF:, Inverse Matrix (part 1) || Taking the inverse of a 2x2 matrix
+http://s3.amazonaws.com/KA-youtube-converted/iUQR0enP7RQ.mp4/iUQR0enP7RQ.mp4
+#EXTINF:, Inverting matrices (part 2) || Inverting a 3x3 matrix
+http://s3.amazonaws.com/KA-youtube-converted/S4n-tQZnU6o.mp4/S4n-tQZnU6o.mp4
+#EXTINF:, Inverting Matrices (part 3) || Using Gauss-Jordan elimination to invert a 3x3 matrix.
+http://s3.amazonaws.com/KA-youtube-converted/obts_JDS6_Q.mp4/obts_JDS6_Q.mp4
+#EXTINF:, Matrices to solve a system of equations || Using the inverse of a matrix to solve a system of equations.
+http://s3.amazonaws.com/KA-youtube-converted/AUqeb9Z3y3k.mp4/AUqeb9Z3y3k.mp4
+#EXTINF:, Matrices to solve a vector combination problem || Using matrices to figure out if some combination of 2 vectors can create a 3rd vector
+http://s3.amazonaws.com/KA-youtube-converted/gsNgdVdAT1o.mp4/gsNgdVdAT1o.mp4
+#EXTINF:, Singular Matrices || When and why you can't invert a matrix.
+http://s3.amazonaws.com/KA-youtube-converted/UqyN7-tRS00.mp4/UqyN7-tRS00.mp4
+#EXTINF:, 3-variable linear equations (part 1) || Visual intuition of a 3-variable linear equation.
+http://s3.amazonaws.com/KA-youtube-converted/5tB7y_piK6o.mp4/5tB7y_piK6o.mp4
+#EXTINF:, Solving 3 Equations with 3 Unknowns || Solving 3 equations with 3 unknowns (old video from July 2008)
+http://s3.amazonaws.com/KA-youtube-converted/woqq3Sls1d8.mp4/woqq3Sls1d8.mp4
+#EXTINF:, Linear Algebra: Introduction to Vectors || Linear Algebra: Introduction to Vectors
+http://s3.amazonaws.com/KA-youtube-converted/5cWB52I-SF0.mp4/5cWB52I-SF0.mp4
+#EXTINF:, Linear Algebra: Vector Examples || Visually understanding basic vector operations
+http://s3.amazonaws.com/KA-youtube-converted/r4bH66vYjss.mp4/r4bH66vYjss.mp4
+#EXTINF:, Linear Algebra: Parametric Representations of Lines || Linear Algebra: Parametric Representations of Lines in R2 and R3
+http://s3.amazonaws.com/KA-youtube-converted/hWhs2cIj7Cw.mp4/hWhs2cIj7Cw.mp4
+#EXTINF:, Linear Combinations and Span || Understanding linear combinations and spans of vectors
+http://s3.amazonaws.com/KA-youtube-converted/Qm_OS-8COwU.mp4/Qm_OS-8COwU.mp4
+#EXTINF:, Linear Algebra: Introduction to Linear Independence || Linear Algebra: Introduction to linear dependence and independence
+http://s3.amazonaws.com/KA-youtube-converted/CrV1xCWdY-g.mp4/CrV1xCWdY-g.mp4
+#EXTINF:, More on linear independence || More examples determining linear dependence or independence.
+http://s3.amazonaws.com/KA-youtube-converted/Alhcv5d_XOs.mp4/Alhcv5d_XOs.mp4
+#EXTINF:, Span and Linear Independence Example || Determining whether 3 vectors are linearly independent and/or span R3
+http://s3.amazonaws.com/KA-youtube-converted/9kW6zFK5E5c.mp4/9kW6zFK5E5c.mp4
+#EXTINF:, Linear Subspaces || Introduction to linear subspaces of Rn
+http://s3.amazonaws.com/KA-youtube-converted/pMFv6liWK4M.mp4/pMFv6liWK4M.mp4
+#EXTINF:, Linear Algebra: Basis of a Subspace || Understanding the definition of a basis of a subspace
+http://s3.amazonaws.com/KA-youtube-converted/zntNi3-ybfQ.mp4/zntNi3-ybfQ.mp4
+#EXTINF:, Vector Dot Product and Vector Length || Definitions of the vector dot product and vector length
+http://s3.amazonaws.com/KA-youtube-converted/WNuIhXo39_k.mp4/WNuIhXo39_k.mp4
+#EXTINF:, Proving Vector Dot Product Properties || Proving the "associative", "distributive" and "commutative" properties for vector dot products.
+http://s3.amazonaws.com/KA-youtube-converted/rVQ3G9epCjw.mp4/rVQ3G9epCjw.mp4
+#EXTINF:, Proof of the Cauchy-Schwarz Inequality || Proof of the Cauchy-Schwarz Inequality
+http://s3.amazonaws.com/KA-youtube-converted/r2PogGDl8_U.mp4/r2PogGDl8_U.mp4
+#EXTINF:, Linear Algebra: Vector Triangle Inequality || Proving the triangle inequality  for vectors in Rn
+http://s3.amazonaws.com/KA-youtube-converted/PsNidCBr5II.mp4/PsNidCBr5II.mp4
+#EXTINF:, Defining the angle between vectors || Introducing the idea of an angle between two vectors
+http://s3.amazonaws.com/KA-youtube-converted/5AWob_z74Ks.mp4/5AWob_z74Ks.mp4
+#EXTINF:, Defining a plane in R3 with a point and normal vector || Determining the equation for a plane in R3 using a point on the plane and a normal vector
+http://s3.amazonaws.com/KA-youtube-converted/UJxgcVaNTqY.mp4/UJxgcVaNTqY.mp4
+#EXTINF:, Linear Algebra: Cross Product Introduction || Introduction to the cross product
+http://s3.amazonaws.com/KA-youtube-converted/pJzmiywagfY.mp4/pJzmiywagfY.mp4
+#EXTINF:, Proof: Relationship between cross product and sin of angle || Proof: Relationship between the  cross product and sin of angle between vectors
+http://s3.amazonaws.com/KA-youtube-converted/7MKA2QlKvHc.mp4/7MKA2QlKvHc.mp4
+#EXTINF:, Dot and Cross Product Comparison/Intuition || Dot and Cross Product Comparison/Intuition
+http://s3.amazonaws.com/KA-youtube-converted/tdwFdzVqito.mp4/tdwFdzVqito.mp4
+#EXTINF:, Matrices: Reduced Row Echelon Form 1 || Solving a system of linear equations by putting an augmented matrix into reduced row echelon form
+http://s3.amazonaws.com/KA-youtube-converted/L0CmbneYETs.mp4/L0CmbneYETs.mp4
+#EXTINF:, Matrices: Reduced Row Echelon Form 2 || Another example of solving a system of linear equations by putting an augmented matrix into reduced row echelon form
+http://s3.amazonaws.com/KA-youtube-converted/lP1DGtZ8Wys.mp4/lP1DGtZ8Wys.mp4
+#EXTINF:, Matrices: Reduced Row Echelon Form 3 || And another example of solving a system of linear equations by putting an augmented matrix into reduced row echelon form
+http://s3.amazonaws.com/KA-youtube-converted/JVDrlTdzxiI.mp4/JVDrlTdzxiI.mp4
+#EXTINF:, Matrix Vector Products || Defining and understanding what it means to take the product of a matrix and a vector
+http://s3.amazonaws.com/KA-youtube-converted/7Mo4S2wyMg4.mp4/7Mo4S2wyMg4.mp4
+#EXTINF:, Introduction to the Null Space of a Matrix || Showing that the Null Space of a Matrix is a valid Subspace
+http://s3.amazonaws.com/KA-youtube-converted/jCwRV1QL_Xs.mp4/jCwRV1QL_Xs.mp4
+#EXTINF:, Null Space 2: Calculating the null space of a matrix || Calculating the null space of a matrix
+http://s3.amazonaws.com/KA-youtube-converted/qvyboGryeA8.mp4/qvyboGryeA8.mp4
+#EXTINF:, Null Space 3: Relation to Linear Independence || Understanding how the null space of a matrix relates to the linear independence of its column vectors
+http://s3.amazonaws.com/KA-youtube-converted/vFctYRhK2M0.mp4/vFctYRhK2M0.mp4
+#EXTINF:, Column Space of a Matrix || Introduction to the column space of a matrix
+http://s3.amazonaws.com/KA-youtube-converted/st6D5OdFV9M.mp4/st6D5OdFV9M.mp4
+#EXTINF:, Null Space and Column Space Basis || Figuring out the null space and a basis of a column space for a matrix
+http://s3.amazonaws.com/KA-youtube-converted/_uTAdf_AsfQ.mp4/_uTAdf_AsfQ.mp4
+#EXTINF:, Visualizing a Column Space as a Plane in R3 || Determining the planar equation for a column space in R3
+http://s3.amazonaws.com/KA-youtube-converted/EGNlXtjYABw.mp4/EGNlXtjYABw.mp4
+#EXTINF:, Proof: Any subspace basis has same number of elements || Proof: Any subspace basis has same number of elements
+http://s3.amazonaws.com/KA-youtube-converted/Zn2K8UIT8r4.mp4/Zn2K8UIT8r4.mp4
+#EXTINF:, Dimension of the Null Space or Nullity || Dimension of the Null Space or Nullity
+http://s3.amazonaws.com/KA-youtube-converted/abYAUqs_n6I.mp4/abYAUqs_n6I.mp4
+#EXTINF:, Dimension of the Column Space or Rank || Dimension of the Column Space or Rank
+http://s3.amazonaws.com/KA-youtube-converted/JUgrBkPteTg.mp4/JUgrBkPteTg.mp4
+#EXTINF:, Showing relation between basis cols and pivot cols || Showing that linear independence of pivot columns implies linear independence of the corresponding columns in the original equation
+http://s3.amazonaws.com/KA-youtube-converted/BfVjTOjvI30.mp4/BfVjTOjvI30.mp4
+#EXTINF:, Showing that the candidate basis does span C(A) || Showing that just the columns of A associated with the pivot columns of rref(A) do indeed span C(A).
+http://s3.amazonaws.com/KA-youtube-converted/CkQOCnLWPUA.mp4/CkQOCnLWPUA.mp4
+#EXTINF:, A more formal understanding of functions || A more formal understanding of functions
+http://s3.amazonaws.com/KA-youtube-converted/BQMyeQOLvpg.mp4/BQMyeQOLvpg.mp4
+#EXTINF:, Vector Transformations || Introduction to the notion of vector transformations
+http://s3.amazonaws.com/KA-youtube-converted/gAbadNuQEjI.mp4/gAbadNuQEjI.mp4
+#EXTINF:, Linear Transformations || Introduction to linear transformations
+http://s3.amazonaws.com/KA-youtube-converted/4PCktDZJH8E.mp4/4PCktDZJH8E.mp4
+#EXTINF:, Matrix Vector Products as Linear Transformations || Matrix Vector Products as Linear Transformations
+http://s3.amazonaws.com/KA-youtube-converted/ondmopWLiEg.mp4/ondmopWLiEg.mp4
+#EXTINF:, Linear Transformations as Matrix Vector Products || Showing how ANY linear transformation can be represented as a matrix vector product
+http://s3.amazonaws.com/KA-youtube-converted/PErhLkQcpZ8.mp4/PErhLkQcpZ8.mp4
+#EXTINF:, Image of a subset under a transformation || Exploring what happens to a subset of the domain under a transformation
+http://s3.amazonaws.com/KA-youtube-converted/MIAmN5kgp3k.mp4/MIAmN5kgp3k.mp4
+#EXTINF:, im(T):  Image of a Transformation || Showing that the image of a subspace under a transformation is also a subspace.  Definition of the image of a Transformation.
+http://s3.amazonaws.com/KA-youtube-converted/hZ827mfh1Jo.mp4/hZ827mfh1Jo.mp4
+#EXTINF:, Preimage of a set || Definition of preimage of a set
+http://s3.amazonaws.com/KA-youtube-converted/zVsGtU8lIWs.mp4/zVsGtU8lIWs.mp4
+#EXTINF:, Preimage and Kernel Example || Example involving the preimage of a set under a transformation.  Definition of kernel of a transformation.
+http://s3.amazonaws.com/KA-youtube-converted/6yrPU8rYOhs.mp4/6yrPU8rYOhs.mp4
+#EXTINF:, Sums and Scalar Multiples of Linear Transformations || Sums and Scalar Multiples of Linear Transformations.  Definitions of matrix addition and scalar multiplication.
+http://s3.amazonaws.com/KA-youtube-converted/wHuY97vss18.mp4/wHuY97vss18.mp4
+#EXTINF:, More on Matrix Addition and Scalar Multiplication || More on Matrix Addition and Scalar Multiplication
+http://s3.amazonaws.com/KA-youtube-converted/Z19-ObbmHJE.mp4/Z19-ObbmHJE.mp4
+#EXTINF:, Linear Transformation Examples: Scaling and Reflections || Creating scaling and reflection transformation matrices (which are diagonal)
+http://s3.amazonaws.com/KA-youtube-converted/qkfODKmZ-x4.mp4/qkfODKmZ-x4.mp4
+#EXTINF:, Linear Transformation Examples: Rotations in R2 || Linear Transformation Examples: Rotations in R2
+http://s3.amazonaws.com/KA-youtube-converted/lPWfIq5DzqI.mp4/lPWfIq5DzqI.mp4
+#EXTINF:, Rotation in R3 around the X-axis || Construction a rotation transformation in R3
+http://s3.amazonaws.com/KA-youtube-converted/gkyuLPzfDV0.mp4/gkyuLPzfDV0.mp4
+#EXTINF:, Unit Vectors || What unit vectors are and how to construct them
+http://s3.amazonaws.com/KA-youtube-converted/lQn7fksaDq0.mp4/lQn7fksaDq0.mp4
+#EXTINF:, Introduction to Projections || Determining the projection of a vector on s line
+http://s3.amazonaws.com/KA-youtube-converted/27vT-NWuw0M.mp4/27vT-NWuw0M.mp4
+#EXTINF:, Expressing a Projection on to a line as a Matrix Vector prod || Expressing a Projection on to a line as a Matrix Vector prod
+http://s3.amazonaws.com/KA-youtube-converted/JK-8XNIoAkI.mp4/JK-8XNIoAkI.mp4
+#EXTINF:, Compositions of Linear Transformations 1 || Introduction to compositions of Linear Transformations
+http://s3.amazonaws.com/KA-youtube-converted/f_DTiXZpb8M.mp4/f_DTiXZpb8M.mp4
+#EXTINF:, Compositions of Linear Transformations 2 || Providing the motivation for definition of matrix products
+http://s3.amazonaws.com/KA-youtube-converted/BuqcKpe5ZQs.mp4/BuqcKpe5ZQs.mp4
+#EXTINF:, Linear Algebra: Matrix Product Examples || Example of taking the product of two matrices
+http://s3.amazonaws.com/KA-youtube-converted/x1z0hOyjapU.mp4/x1z0hOyjapU.mp4
+#EXTINF:, Matrix Product Associativity || Showing that matrix products are associative
+http://s3.amazonaws.com/KA-youtube-converted/Hhc96U_HvQE.mp4/Hhc96U_HvQE.mp4
+#EXTINF:, Distributive Property of Matrix Products || Showing that matrix products exhibit the distributive property
+http://s3.amazonaws.com/KA-youtube-converted/oMWTMj78cwc.mp4/oMWTMj78cwc.mp4
+#EXTINF:, Linear Algebra: Introduction to the inverse of a function || Introduction to the inverse of a function
+http://s3.amazonaws.com/KA-youtube-converted/-eAzhBZgq28.mp4/-eAzhBZgq28.mp4
+#EXTINF:, Proof: Invertibility implies a unique solution to f(x)=y || Proof: Invertibility implies a unique solution to f(x)=y for all y in co-domain of f.
+http://s3.amazonaws.com/KA-youtube-converted/7GEUgRcnfVE.mp4/7GEUgRcnfVE.mp4
+#EXTINF:, Surjective (onto) and Injective (one-to-one) functions || Introduction to surjective and injective functions
+http://s3.amazonaws.com/KA-youtube-converted/xKNX8BUWR0g.mp4/xKNX8BUWR0g.mp4
+#EXTINF:, Relating invertibility to being onto and one-to-one || Relating invertibility to being onto (surjective) and one-to-one (injective)
+http://s3.amazonaws.com/KA-youtube-converted/QIU1daMN8fw.mp4/QIU1daMN8fw.mp4
+#EXTINF:, Determining whether a transformation is onto || Determining whether a transformation is onto
+http://s3.amazonaws.com/KA-youtube-converted/eR8vEdJTvd0.mp4/eR8vEdJTvd0.mp4
+#EXTINF:, Linear Algebra: Exploring the solution set of Ax=b || Exploring the solution set of Ax=b (non homogeneous equations)
+http://s3.amazonaws.com/KA-youtube-converted/1PsNIzUJPkc.mp4/1PsNIzUJPkc.mp4
+#EXTINF:, Linear Algebra: Matrix condition for one-to-one trans || Showing that the rank of the of an mxn transformation matrix has to be an for the transformation to be one-to-one (injective)
+http://s3.amazonaws.com/KA-youtube-converted/M3FuL9qKTBs.mp4/M3FuL9qKTBs.mp4
+#EXTINF:, Linear Algebra: Simplifying conditions for invertibility || Showing that a transformation is invertible if and only if  rref(A) is equal to the identity matrix
+http://s3.amazonaws.com/KA-youtube-converted/Yz2OosyMTmY.mp4/Yz2OosyMTmY.mp4
+#EXTINF:, Linear Algebra: Showing that Inverses are Linear || Showing that inverse transformations are also linear
+http://s3.amazonaws.com/KA-youtube-converted/mr9Tow8hpCg.mp4/mr9Tow8hpCg.mp4
+#EXTINF:, Linear Algebra: Deriving a method for determining inverses || Determining a method for constructing inverse transformation matrices
+http://s3.amazonaws.com/KA-youtube-converted/6DpzCKJBsz0.mp4/6DpzCKJBsz0.mp4
+#EXTINF:, Linear Algebra: Example of Finding Matrix Inverse || Example of calculating the inverse of a matrix
+http://s3.amazonaws.com/KA-youtube-converted/r9aTLTN16V4.mp4/r9aTLTN16V4.mp4
+#EXTINF:, Linear Algebra: Formula for 2x2 inverse || Figuring out the formula for a 2x2 matrix.  Defining the determinant.
+http://s3.amazonaws.com/KA-youtube-converted/eEUK_ThrHuQ.mp4/eEUK_ThrHuQ.mp4
+#EXTINF:, Linear Algebra: 3x3 Determinant || Determinants: Finding the determinant of a 3x3 matrix
+http://s3.amazonaws.com/KA-youtube-converted/0c7dt2SQfLw.mp4/0c7dt2SQfLw.mp4
+#EXTINF:, Linear Algebra: nxn Determinant || Defining the determinant for nxn matrices.  An exampled of a 4x4 determinant.
+http://s3.amazonaws.com/KA-youtube-converted/H9BWRYJNIv4.mp4/H9BWRYJNIv4.mp4
+#EXTINF:, Linear Algebra: Determinants along other rows/cols || Finding the determinant by going along other rows or columns
+http://s3.amazonaws.com/KA-youtube-converted/nu87kfmwNfU.mp4/nu87kfmwNfU.mp4
+#EXTINF:, Linear Algebra: Rule of Sarrus of Determinants || A alternative "short cut" for calculating 3x3 determinants (Rule of Sarrus)
+http://s3.amazonaws.com/KA-youtube-converted/4xFIi0JF2AM.mp4/4xFIi0JF2AM.mp4
+#EXTINF:, Linear Algebra: Determinant when row multiplied by scalar || The determinant when a row is multiplied by a scalar
+http://s3.amazonaws.com/KA-youtube-converted/32rdijPB-rA.mp4/32rdijPB-rA.mp4
+#EXTINF:, Linear Algebra: (correction) scalar muliplication of row || Correction of last video showing that the determinant when one row is multiplied by a scalar is equal to the scalar times the determinant
+http://s3.amazonaws.com/KA-youtube-converted/WY6QG0mZ7uQ.mp4/WY6QG0mZ7uQ.mp4
+#EXTINF:, Linear Algebra: Determinant when row is added || The determinant when one matrix has a row that is the sum of the rows of other matrices (and every other term is identical in the 3 matrices)
+http://s3.amazonaws.com/KA-youtube-converted/VrB3LaSD_uo.mp4/VrB3LaSD_uo.mp4
+#EXTINF:, Linear Algebra: Duplicate Row Determinant || Determinant of a matrix with duplicate rows
+http://s3.amazonaws.com/KA-youtube-converted/gYv8sttBIqs.mp4/gYv8sttBIqs.mp4
+#EXTINF:, Linear Algebra: Determinant after row operations || What happens to the determinant when we perform a row operation
+http://s3.amazonaws.com/KA-youtube-converted/kpG7xySkivg.mp4/kpG7xySkivg.mp4
+#EXTINF:, Linear Algebra: Upper Triangular Determinant || The determinant of an upper triangular matrix
+http://s3.amazonaws.com/KA-youtube-converted/VX7K8iqoiRc.mp4/VX7K8iqoiRc.mp4
+#EXTINF:, Linear Algebra: Simpler 4x4 determinant || Calculating a 4x4 determinant by putting in in upper triangular form first.
+http://s3.amazonaws.com/KA-youtube-converted/QV0jsTiobU4.mp4/QV0jsTiobU4.mp4
+#EXTINF:, Linear Algebra:  Determinant and area of a parallelogram || Realizing that the determinant of a 2x2 matrix is equal to the area of the parallelogram defined by the column vectors of the matrix
+http://s3.amazonaws.com/KA-youtube-converted/n-S63_goDFg.mp4/n-S63_goDFg.mp4
+#EXTINF:, Linear Algebra: Determinant as Scaling Factor || Viewing the determinant of the transformation matrix as a scaling factor of regions
+http://s3.amazonaws.com/KA-youtube-converted/g3MqSdO5Ubc.mp4/g3MqSdO5Ubc.mp4
+#EXTINF:, Linear Algebra: Transpose of a Matrix || Transpose of a matrix
+http://s3.amazonaws.com/KA-youtube-converted/2t0003_sxtU.mp4/2t0003_sxtU.mp4
+#EXTINF:, Linear Algebra:  Determinant of Transpose || Proof by induction that transposing a matrix does not change its determinant
+http://s3.amazonaws.com/KA-youtube-converted/x-GV2v0dRNE.mp4/x-GV2v0dRNE.mp4
+#EXTINF:, Linear Algebra: Transpose of a Matrix Product || Taking the transpose of the product of two matrices
+http://s3.amazonaws.com/KA-youtube-converted/UdHgWK13x5I.mp4/UdHgWK13x5I.mp4
+#EXTINF:, Linear Algebra:  Transposes of sums and inverses || Transposes of sums and inverses
+http://s3.amazonaws.com/KA-youtube-converted/Br_8t58mdeI.mp4/Br_8t58mdeI.mp4
+#EXTINF:, Linear Algebra: Transpose of a Vector || Transpose of a column vector.  Matrix-matrix products using vectors
+http://s3.amazonaws.com/KA-youtube-converted/lSoaMCNKfAg.mp4/lSoaMCNKfAg.mp4
+#EXTINF:, Linear Algebra: Rowspace and Left Nullspace || Rowspace and Left Nullspace
+http://s3.amazonaws.com/KA-youtube-converted/qBfc57x_RSg.mp4/qBfc57x_RSg.mp4
+#EXTINF:, Lin Alg: Visualizations of Left Nullspace and Rowspace || Relationship between left nullspace, rowspace, column space and nullspace.
+http://s3.amazonaws.com/KA-youtube-converted/GW8ZPjGlk24.mp4/GW8ZPjGlk24.mp4
+#EXTINF:, Linear Algebra: Orthogonal Complements || Orthogonal Complements as subspaces.
+http://s3.amazonaws.com/KA-youtube-converted/QOTjdgmNqlg.mp4/QOTjdgmNqlg.mp4
+#EXTINF:, Linear Algebra: Rank(A) = Rank(transpose of A) || Rank(A) = Rank(transpose of A)
+http://s3.amazonaws.com/KA-youtube-converted/tqqVOWm9YsU.mp4/tqqVOWm9YsU.mp4
+#EXTINF:, Linear Algebra: dim(V) + dim(orthogonoal complelent of V)=n || Showing that if V is a subspace of Rn, then dim(V) + dim(V's orthogonal complement) = n
+http://s3.amazonaws.com/KA-youtube-converted/pGhBfkBqok0.mp4/pGhBfkBqok0.mp4
+#EXTINF:, Lin Alg: Representing vectors in Rn using subspace members || Showing that any member of Rn can be represented as a unique sum of a vector in subspace V and a vector in the orthogonal complement of V.
+http://s3.amazonaws.com/KA-youtube-converted/M6lFqkqvUgo.mp4/M6lFqkqvUgo.mp4
+#EXTINF:, Lin Alg:  Orthogonal Complement of the Orthogonal Complement || Finding that the orthogonal complement of the orthogonal complement of V is V
+http://s3.amazonaws.com/KA-youtube-converted/zlI8mx8Hc8o.mp4/zlI8mx8Hc8o.mp4
+#EXTINF:, Lin Alg: Orthogonal Complement of the Nullspace || The orthogonal complement of the nullspace and left nullspace.
+http://s3.amazonaws.com/KA-youtube-converted/LE_aQAur7nI.mp4/LE_aQAur7nI.mp4
+#EXTINF:, Lin Alg: Unique rowspace solution to Ax=b || Showing that, for any b that is in the column space of A, there is a unique member of the row space that is the "smallest" solution to Ax=b
+http://s3.amazonaws.com/KA-youtube-converted/czIYvs9zj2g.mp4/czIYvs9zj2g.mp4
+#EXTINF:, Linear Alg: Rowspace Solution to Ax=b example || Visualizing the rowspace solution to Ax=b
+http://s3.amazonaws.com/KA-youtube-converted/qdf2CuMGdKs.mp4/qdf2CuMGdKs.mp4
+#EXTINF:, Lin Alg: Showing that A-transpose x A is invertible || Showing that (transpose of A)(A) is invertible if A has linearly independent columns
+http://s3.amazonaws.com/KA-youtube-converted/ESSMQH6Y5OA.mp4/ESSMQH6Y5OA.mp4
+#EXTINF:, Linear Algebra: Projections onto Subspaces || Projections onto subspaces
+http://s3.amazonaws.com/KA-youtube-converted/5B8XluiqdHM.mp4/5B8XluiqdHM.mp4
+#EXTINF:, Linear Alg: Visualizing a projection onto a plane || Visualizing a projection onto a plane.  Showing that the old and new definitions of projections aren't that different.
+http://s3.amazonaws.com/KA-youtube-converted/uWbZlJURkfA.mp4/uWbZlJURkfA.mp4
+#EXTINF:, Lin Alg: A Projection onto a Subspace is a Linear Transforma || Showing that a  projection onto a subspace is a linear transformation
+http://s3.amazonaws.com/KA-youtube-converted/cTyNpXB92bQ.mp4/cTyNpXB92bQ.mp4
+#EXTINF:, Linear Algebra: Subspace Projection Matrix Example || Example of a transformation matrix for a projection onto a subspace
+http://s3.amazonaws.com/KA-youtube-converted/QTcSBB3uVP0.mp4/QTcSBB3uVP0.mp4
+#EXTINF:, Lin Alg: Another Example of a Projection Matrix || Figuring out the transformation matrix for a projection onto a subspace by figuring out the matrix for the projection onto the subspace's orthogonal complement first
+http://s3.amazonaws.com/KA-youtube-converted/XhCSHu6dHb8.mp4/XhCSHu6dHb8.mp4
+#EXTINF:, Linear Alg: Projection is closest vector in subspace || Showing that the projection of x onto a subspace is the closest vector in the subspace to x
+http://s3.amazonaws.com/KA-youtube-converted/b269qpILOpk.mp4/b269qpILOpk.mp4
+#EXTINF:, Linear Algebra: Least Squares Approximation || The least squares approximation for otherwise unsolvable equations
+http://s3.amazonaws.com/KA-youtube-converted/MC7l96tW8V8.mp4/MC7l96tW8V8.mp4
+#EXTINF:, Linear Algebra: Least Squares Examples || An example using the least squares solution to an unsolvable system
+http://s3.amazonaws.com/KA-youtube-converted/8mAZYv5wIcE.mp4/8mAZYv5wIcE.mp4
+#EXTINF:, Linear Algebra: Another Least Squares Example || Using least squares approximation to fit a line to points
+http://s3.amazonaws.com/KA-youtube-converted/QkepM8Vv3kw.mp4/QkepM8Vv3kw.mp4
+#EXTINF:, Linear Algebra: Coordinates with Respect to a Basis || Understanding alternate coordinate systems
+http://s3.amazonaws.com/KA-youtube-converted/uvgru6FcyxU.mp4/uvgru6FcyxU.mp4
+#EXTINF:, Linear Algebra: Change of Basis Matrix || Using a change of basis matrix to get us from one coordinate system to another.
+http://s3.amazonaws.com/KA-youtube-converted/1j5WnqwMdCk.mp4/1j5WnqwMdCk.mp4
+#EXTINF:, Lin Alg: Invertible Change of Basis Matrix || Using an invertible change of basis matrix to go between different coordinate systems
+http://s3.amazonaws.com/KA-youtube-converted/meibWcbGqt4.mp4/meibWcbGqt4.mp4
+#EXTINF:, Lin Alg: Transformation Matrix with Respect to a Basis || Finding the transformation matrix with respect to a non-standard basis
+http://s3.amazonaws.com/KA-youtube-converted/PiuhTj0zCf4.mp4/PiuhTj0zCf4.mp4
+#EXTINF:, Lin Alg: Alternate Basis Tranformation Matrix Example || Example of finding the transformation matrix for an alternate basis
+http://s3.amazonaws.com/KA-youtube-converted/lCRGNykWqFI.mp4/lCRGNykWqFI.mp4
+#EXTINF:, Lin Alg: Alternate Basis Tranformation Matrix Example Part 2 || Showing that the transformation matrix with respect to basis B actually works.  Brief point on why someone would want to operate in a different basis to begin with.
+http://s3.amazonaws.com/KA-youtube-converted/EyORbCPUAd4.mp4/EyORbCPUAd4.mp4
+#EXTINF:, Lin Alg: Changing coordinate systems to help find a transformation matrix || Changing our coordinate system to find the transformation matrix with respect to standard coordinates
+http://s3.amazonaws.com/KA-youtube-converted/K_na_j1Msfg.mp4/K_na_j1Msfg.mp4
+#EXTINF:, Linear Algebra: Introduction to Orthonormal Bases || Looking at sets and bases that are orthonormal -- or where all the vectors have length 1 and are orthogonal to each other.
+http://s3.amazonaws.com/KA-youtube-converted/7BFx8pt2aTQ.mp4/7BFx8pt2aTQ.mp4
+#EXTINF:, Linear Algebra: Coordinates with respect to orthonormal bases || Seeing that orthonormal bases make for good coordinate systems
+http://s3.amazonaws.com/KA-youtube-converted/SWbis2zWIvo.mp4/SWbis2zWIvo.mp4
+#EXTINF:, Lin Alg: Projections onto subspaces with orthonormal bases || Projections onto subspaces with orthonormal bases
+http://s3.amazonaws.com/KA-youtube-converted/we829K4NOq8.mp4/we829K4NOq8.mp4
+#EXTINF:, Lin Alg: Finding projection onto subspace with orthonormal basis example || Example of finding the transformation matrix for the projection onto a subspace with an orthonormal basis
+http://s3.amazonaws.com/KA-youtube-converted/SUoqA9srY1Q.mp4/SUoqA9srY1Q.mp4
+#EXTINF:, Lin Alg: Example using orthogonal change-of-basis matrix to find transformation matrix || Example using orthogonal change-of-basis matrix to find transformation matrix
+http://s3.amazonaws.com/KA-youtube-converted/gfVY7cW7VLQ.mp4/gfVY7cW7VLQ.mp4
+#EXTINF:, Lin Alg:  Orthogonal matrices preserve angles and lengths || Showing that orthogonal matrices preserve angles and lengths
+http://s3.amazonaws.com/KA-youtube-converted/yDwIfYjKEeo.mp4/yDwIfYjKEeo.mp4
+#EXTINF:, Linear Algebra: The Gram-Schmidt Process || Finding an orthonormal basis for a subspace using the Gram-Schmidt Process
+http://s3.amazonaws.com/KA-youtube-converted/rHonltF77zI.mp4/rHonltF77zI.mp4
+#EXTINF:, Linear Algebra: Gram-Schmidt Process Example || Using Gram-Schmidt to find an orthonormal basis for a plane in R3
+http://s3.amazonaws.com/KA-youtube-converted/tu1GPtfsQ7M.mp4/tu1GPtfsQ7M.mp4
+#EXTINF:, Linear Algebra:  Gram-Schmidt example with 3 basis vectors || Gram-Schmidt example with 3 basis vectors
+http://s3.amazonaws.com/KA-youtube-converted/ZRRG386v6DI.mp4/ZRRG386v6DI.mp4
+#EXTINF:, Linear Algebra: Introduction to Eigenvalues and Eigenvectors || What eigenvectors and eigenvalues are and why they are interesting
+http://s3.amazonaws.com/KA-youtube-converted/PhfbEr2btGQ.mp4/PhfbEr2btGQ.mp4
+#EXTINF:, Linear Algebra: Proof of formula for determining Eigenvalues || Proof of formula for determining Eigenvalues
+http://s3.amazonaws.com/KA-youtube-converted/rfm0wQObxjk.mp4/rfm0wQObxjk.mp4
+#EXTINF:, Linear Algebra: Example solving for the eigenvalues of a 2x2 matrix || Example solving for the eigenvalues of a 2x2 matrix
+http://s3.amazonaws.com/KA-youtube-converted/pZ6mMVEE89g.mp4/pZ6mMVEE89g.mp4
+#EXTINF:, Linear Algebra:  Finding Eigenvectors and Eigenspaces example || Finding the eigenvectors and eigenspaces of a 2x2 matrix
+http://s3.amazonaws.com/KA-youtube-converted/3-xfmbdzkqc.mp4/3-xfmbdzkqc.mp4
+#EXTINF:, Linear Algebra: Eigenvalues of a 3x3 matrix || Determining the eigenvalues of a 3x3 matrix
+http://s3.amazonaws.com/KA-youtube-converted/11dNghWC4HI.mp4/11dNghWC4HI.mp4
+#EXTINF:, Linear Algebra:  Eigenvectors and Eigenspaces for a 3x3 matrix || Eigenvectors and eigenspaces for a 3x3 matrix
+http://s3.amazonaws.com/KA-youtube-converted/3Md5KCCQX-0.mp4/3Md5KCCQX-0.mp4
+#EXTINF:, Linear Algebra:  Showing that an eigenbasis makes for good coordinate systems || Showing that an eigenbasis makes for good coordinate systems
+http://s3.amazonaws.com/KA-youtube-converted/C2PC9185gIw.mp4/C2PC9185gIw.mp4
+#EXTINF:, Vector Triple Product Expansion (very optional) || A shortcut for having to evaluate the cross product of three vectors
+http://s3.amazonaws.com/KA-youtube-converted/b7JTVLc_aMk.mp4/b7JTVLc_aMk.mp4
+#EXTINF:, Normal vector from plane equation || Figuring out a normal vector to a plane from its equation
+http://s3.amazonaws.com/KA-youtube-converted/gw-4wltP5tY.mp4/gw-4wltP5tY.mp4
+#EXTINF:, Point distance to plane || Distance between a point and a plane in three dimensions
+http://s3.amazonaws.com/KA-youtube-converted/7rIFO8hct9g.mp4/7rIFO8hct9g.mp4
+#EXTINF:, Distance Between Planes || 2010 IIT JEE Paper 1 Problem 51 Distance Between Planes
+http://s3.amazonaws.com/KA-youtube-converted/v8plb6V8BQo.mp4/v8plb6V8BQo.mp4

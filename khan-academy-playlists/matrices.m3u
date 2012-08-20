@@ -1,0 +1,66 @@
+#EXTINF:, Introduction to matrices || What a matrix is.  How to add and subtract them.
+http://s3.amazonaws.com/KA-youtube-converted/xyAuNHPsq-g.mp4/xyAuNHPsq-g.mp4
+#EXTINF:, Matrix multiplication (part 1) || Multiplying two 2x2 matrices.
+http://s3.amazonaws.com/KA-youtube-converted/aKhhYguY0DQ.mp4/aKhhYguY0DQ.mp4
+#EXTINF:, Matrix multiplication (part 2) || More on multiplying matrices.
+http://s3.amazonaws.com/KA-youtube-converted/OAh573i_qn8.mp4/OAh573i_qn8.mp4
+#EXTINF:, Inverse Matrix (part 1) || Taking the inverse of a 2x2 matrix
+http://s3.amazonaws.com/KA-youtube-converted/iUQR0enP7RQ.mp4/iUQR0enP7RQ.mp4
+#EXTINF:, Inverting matrices (part 2) || Inverting a 3x3 matrix
+http://s3.amazonaws.com/KA-youtube-converted/S4n-tQZnU6o.mp4/S4n-tQZnU6o.mp4
+#EXTINF:, Inverting Matrices (part 3) || Using Gauss-Jordan elimination to invert a 3x3 matrix.
+http://s3.amazonaws.com/KA-youtube-converted/obts_JDS6_Q.mp4/obts_JDS6_Q.mp4
+#EXTINF:, Matrices to solve a system of equations || Using the inverse of a matrix to solve a system of equations.
+http://s3.amazonaws.com/KA-youtube-converted/AUqeb9Z3y3k.mp4/AUqeb9Z3y3k.mp4
+#EXTINF:, Matrices to solve a vector combination problem || Using matrices to figure out if some combination of 2 vectors can create a 3rd vector
+http://s3.amazonaws.com/KA-youtube-converted/gsNgdVdAT1o.mp4/gsNgdVdAT1o.mp4
+#EXTINF:, Singular Matrices || When and why you can't invert a matrix.
+http://s3.amazonaws.com/KA-youtube-converted/UqyN7-tRS00.mp4/UqyN7-tRS00.mp4
+#EXTINF:, Matrices: Reduced Row Echelon Form 1 || Solving a system of linear equations by putting an augmented matrix into reduced row echelon form
+http://s3.amazonaws.com/KA-youtube-converted/L0CmbneYETs.mp4/L0CmbneYETs.mp4
+#EXTINF:, Matrices: Reduced Row Echelon Form 2 || Another example of solving a system of linear equations by putting an augmented matrix into reduced row echelon form
+http://s3.amazonaws.com/KA-youtube-converted/lP1DGtZ8Wys.mp4/lP1DGtZ8Wys.mp4
+#EXTINF:, Matrices: Reduced Row Echelon Form 3 || And another example of solving a system of linear equations by putting an augmented matrix into reduced row echelon form
+http://s3.amazonaws.com/KA-youtube-converted/JVDrlTdzxiI.mp4/JVDrlTdzxiI.mp4
+#EXTINF:, Matrix Vector Products || Defining and understanding what it means to take the product of a matrix and a vector
+http://s3.amazonaws.com/KA-youtube-converted/7Mo4S2wyMg4.mp4/7Mo4S2wyMg4.mp4
+#EXTINF:, Matrix Vector Products as Linear Transformations || Matrix Vector Products as Linear Transformations
+http://s3.amazonaws.com/KA-youtube-converted/ondmopWLiEg.mp4/ondmopWLiEg.mp4
+#EXTINF:, Introduction to the Null Space of a Matrix || Showing that the Null Space of a Matrix is a valid Subspace
+http://s3.amazonaws.com/KA-youtube-converted/jCwRV1QL_Xs.mp4/jCwRV1QL_Xs.mp4
+#EXTINF:, Null Space 2: Calculating the null space of a matrix || Calculating the null space of a matrix
+http://s3.amazonaws.com/KA-youtube-converted/qvyboGryeA8.mp4/qvyboGryeA8.mp4
+#EXTINF:, Null Space 3: Relation to Linear Independence || Understanding how the null space of a matrix relates to the linear independence of its column vectors
+http://s3.amazonaws.com/KA-youtube-converted/vFctYRhK2M0.mp4/vFctYRhK2M0.mp4
+#EXTINF:, Column Space of a Matrix || Introduction to the column space of a matrix
+http://s3.amazonaws.com/KA-youtube-converted/st6D5OdFV9M.mp4/st6D5OdFV9M.mp4
+#EXTINF:, Null Space and Column Space Basis || Figuring out the null space and a basis of a column space for a matrix
+http://s3.amazonaws.com/KA-youtube-converted/_uTAdf_AsfQ.mp4/_uTAdf_AsfQ.mp4
+#EXTINF:, Visualizing a Column Space as a Plane in R3 || Determining the planar equation for a column space in R3
+http://s3.amazonaws.com/KA-youtube-converted/EGNlXtjYABw.mp4/EGNlXtjYABw.mp4
+#EXTINF:, Proof: Any subspace basis has same number of elements || Proof: Any subspace basis has same number of elements
+http://s3.amazonaws.com/KA-youtube-converted/Zn2K8UIT8r4.mp4/Zn2K8UIT8r4.mp4
+#EXTINF:, Dimension of the Null Space or Nullity || Dimension of the Null Space or Nullity
+http://s3.amazonaws.com/KA-youtube-converted/abYAUqs_n6I.mp4/abYAUqs_n6I.mp4
+#EXTINF:, Dimension of the Column Space or Rank || Dimension of the Column Space or Rank
+http://s3.amazonaws.com/KA-youtube-converted/JUgrBkPteTg.mp4/JUgrBkPteTg.mp4
+#EXTINF:, Showing relation between basis cols and pivot cols || Showing that linear independence of pivot columns implies linear independence of the corresponding columns in the original equation
+http://s3.amazonaws.com/KA-youtube-converted/BfVjTOjvI30.mp4/BfVjTOjvI30.mp4
+#EXTINF:, Showing that the candidate basis does span C(A) || Showing that just the columns of A associated with the pivot columns of rref(A) do indeed span C(A).
+http://s3.amazonaws.com/KA-youtube-converted/CkQOCnLWPUA.mp4/CkQOCnLWPUA.mp4
+#EXTINF:, Expressing a Projection on to a line as a Matrix Vector prod || Expressing a Projection on to a line as a Matrix Vector prod
+http://s3.amazonaws.com/KA-youtube-converted/JK-8XNIoAkI.mp4/JK-8XNIoAkI.mp4
+#EXTINF:, Linear Algebra: Matrix Product Examples || Example of taking the product of two matrices
+http://s3.amazonaws.com/KA-youtube-converted/x1z0hOyjapU.mp4/x1z0hOyjapU.mp4
+#EXTINF:, Matrix Product Associativity || Showing that matrix products are associative
+http://s3.amazonaws.com/KA-youtube-converted/Hhc96U_HvQE.mp4/Hhc96U_HvQE.mp4
+#EXTINF:, Distributive Property of Matrix Products || Showing that matrix products exhibit the distributive property
+http://s3.amazonaws.com/KA-youtube-converted/oMWTMj78cwc.mp4/oMWTMj78cwc.mp4
+#EXTINF:, Sums and Scalar Multiples of Linear Transformations || Sums and Scalar Multiples of Linear Transformations.  Definitions of matrix addition and scalar multiplication.
+http://s3.amazonaws.com/KA-youtube-converted/wHuY97vss18.mp4/wHuY97vss18.mp4
+#EXTINF:, More on Matrix Addition and Scalar Multiplication || More on Matrix Addition and Scalar Multiplication
+http://s3.amazonaws.com/KA-youtube-converted/Z19-ObbmHJE.mp4/Z19-ObbmHJE.mp4
+#EXTINF:, Linear Algebra: Matrix condition for one-to-one trans || Showing that the rank of the of an mxn transformation matrix has to be an for the transformation to be one-to-one (injective)
+http://s3.amazonaws.com/KA-youtube-converted/M3FuL9qKTBs.mp4/M3FuL9qKTBs.mp4
+#EXTINF:, Linear Algebra: Simplifying conditions for invertibility || Showing that a transformation is invertible if and only if  rref(A) is equal to the identity matrix
+http://s3.amazonaws.com/KA-youtube-converted/Yz2OosyMTmY.mp4/Yz2OosyMTmY.mp4
